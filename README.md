@@ -239,7 +239,7 @@ The match score (0-100) combines:
 - **Education Match** (20%): Degree level and field
 - **Semantic Similarity** (10%): Text embedding comparison
 
-## 🚢 Production Deployment
+## 🚢 Production Deployment(ongoing)
 
 ### Backend (Python)
 - Deploy to Railway, Render, or AWS Lambda
