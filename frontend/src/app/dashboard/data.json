@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1",
+    "name": "John Doe",
+    "email": "john.doe@example.com",
+    "skills": ["React", "TypeScript", "Node.js", "Python", "Machine Learning"],
+    "match_score": 95,
+    "parsed_at": "2024-01-15T10:30:00Z"
+  },
+  {
+    "id": "2",
+    "name": "Jane Smith",
+    "email": "jane.smith@example.com",
+    "skills": ["JavaScript", "React", "CSS", "HTML", "UI/UX Design"],
+    "match_score": 87,
+    "parsed_at": "2024-01-14T14:20:00Z"
+  },
+  {
+    "id": "3",
+    "name": "Michael Johnson",
+    "email": "michael.johnson@example.com",
+    "skills": ["Python", "Django", "PostgreSQL", "Docker", "AWS"],
+    "match_score": 92,
+    "parsed_at": "2024-01-13T09:15:00Z"
+  },
+  {
+    "id": "4",
+    "name": "Sarah Wilson",
+    "email": "sarah.wilson@example.com",
+    "skills": ["Java", "Spring Boot", "MySQL", "Git", "Agile"],
+    "match_score": 78,
+    "parsed_at": "2024-01-12T16:45:00Z"
+  },
+  {
+    "id": "5",
+    "name": "David Brown",
+    "email": "david.brown@example.com",
+    "skills": ["C#", ".NET", "Azure", "SQL Server", "DevOps"],
+    "match_score": 89,
+    "parsed_at": "2024-01-11T11:20:00Z"
+  }
+]

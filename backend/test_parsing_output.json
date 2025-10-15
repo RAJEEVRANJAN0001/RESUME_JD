@@ -1,0 +1,165 @@
+{
+  "name": "JOHN DOE",
+  "contact": {
+    "email": "john.doe@email.com",
+    "phone": "(555) 123-4567",
+    "linkedin": "linkedin.com/in/johndoe",
+    "website": "github.com/johndoe"
+  },
+  "summary": "Results-driven Software Engineer with 5+ years of experience in full-stack development.\nProven expertise in building scalable web applications using modern technologies and cloud platforms.",
+  "skills": [
+    "Python",
+    "JavaScript",
+    "TypeScript",
+    "Java",
+    "SQL",
+    "React",
+    "Node.js",
+    "Django",
+    "FastAPI",
+    "Express.js",
+    "Spring Boot",
+    "PostgreSQL",
+    "MongoDB",
+    "Redis",
+    "MySQL",
+    "DynamoDB",
+    "AWS",
+    "EC2",
+    "S3",
+    "Lambda",
+    "RDS",
+    "Google Cloud Platform",
+    "Azure",
+    "Docker",
+    "Kubernetes",
+    "Jenkins",
+    "GitLab CI/CD",
+    "Terraform",
+    "Git",
+    "JIRA",
+    "Postman",
+    "VS Code",
+    "Linux"
+  ],
+  "experiences": [
+    {
+      "title": "Senior Software Engineer",
+      "company": "Tech Corp",
+      "start_date": "2021-06",
+      "end_date": null,
+      "location": "San Francisco, CA",
+      "description": null,
+      "responsibilities": [
+        "Architected and deployed microservices architecture serving 1M+ daily users",
+        "Led team of 5 engineers in developing new feature that increased user engagement by 35%",
+        "Implemented CI/CD pipeline reducing deployment time by 60%",
+        "Mentored 3 junior developers and conducted technical interviews"
+      ],
+      "bullet_impact_score": 0.9
+    },
+    {
+      "title": "Software Engineer",
+      "company": "StartupXYZ",
+      "start_date": "2019-07",
+      "end_date": "2021-05",
+      "location": "Palo Alto, CA",
+      "description": null,
+      "responsibilities": [
+        "Developed RESTful APIs using Python FastAPI serving 100K+ requests daily",
+        "Built React-based dashboard improving customer retention by 25%",
+        "Optimized database queries reducing response time by 40%",
+        "Collaborated with product team to define technical requirements"
+      ],
+      "bullet_impact_score": 0.9
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Science in Computer Science",
+      "institution": "Stanford University",
+      "field_of_study": "Computer Science",
+      "start_date": "2015",
+      "end_date": "2019",
+      "gpa": "3.8/4.0",
+      "location": "Stanford, CA",
+      "honors": "Summa Cum Laude, Dean's List (All Semesters)",
+      "year": "2019"
+    }
+  ],
+  "projects": [
+    {
+      "name": "E-Commerce Platform",
+      "description": "Built full-stack e-commerce platform using React, Node.js, and PostgreSQL\nIntegrated Stripe payment processing and AWS S3 for image storage\nImplemented real-time inventory management using WebSockets",
+      "technologies": [
+        "React",
+        "Node.js",
+        "PostgreSQL",
+        "Stripe",
+        "AWS S3",
+        "WebSockets"
+      ],
+      "url": "https://github.com/johndoe/ecommerce",
+      "start_date": null,
+      "end_date": null
+    },
+    {
+      "name": "AI Chatbot",
+      "description": "Developed intelligent chatbot using Python, TensorFlow, and NLP\nAchieved 85% accuracy in intent classification\nDeployed on AWS Lambda for serverless architecture",
+      "technologies": [
+        "Python",
+        "TensorFlow",
+        "NLP",
+        "AWS Lambda"
+      ],
+      "url": null,
+      "start_date": "2023-01",
+      "end_date": "2023-04"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "AWS Certified Solutions Architect - Associate",
+      "issuing_organization": "Amazon Web Services",
+      "issue_date": "2023-03",
+      "expiry_date": null,
+      "credential_id": "AWS-SA-123456",
+      "credential_url": "https://aws.amazon.com/verification/ABC123"
+    },
+    {
+      "name": "Google Cloud Professional Cloud Architect",
+      "issuing_organization": "Google Cloud",
+      "issue_date": "2022-01",
+      "expiry_date": "2025-01",
+      "credential_id": null,
+      "credential_url": null
+    },
+    {
+      "name": "Certified Kubernetes Administrator (CKA)",
+      "issuing_organization": "Cloud Native Computing Foundation",
+      "issue_date": "2021-06",
+      "expiry_date": null,
+      "credential_id": null,
+      "credential_url": null
+    }
+  ],
+  "achievements": [
+    "Winner, Best Innovation Award at Tech Corp Annual Hackathon (2023)",
+    "Published research paper on \"Optimizing ML Model Performance\" in IEEE Journal (2022)",
+    "Led company-wide initiative to adopt microservices, reducing infrastructure costs by $200K annually"
+  ],
+  "languages": [
+    "English (Native)",
+    "Spanish (Fluent)",
+    "Mandarin Chinese (Intermediate)"
+  ],
+  "awards": [
+    "Employee of the Year, Tech Corp (2022)",
+    "Academic Excellence Scholarship, Stanford University (2015-2019)",
+    "First Place, Silicon Valley Startup Weekend (2020)"
+  ],
+  "parsed_at": "2025-10-14 10:19:48.179111",
+  "resume_hash": "f3718516706e60a196424a2ea9b67e2b0570b535203f2c54fd6a880b7563ef55",
+  "source": "gemini-enhanced",
+  "file_id": null
+}
