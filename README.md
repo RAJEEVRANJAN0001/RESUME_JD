@@ -102,12 +102,6 @@ npm run dev
 
 Frontend will run at: http://localhost:3000
 
-### 4. Default Credentials
-
-```
-Username: admin@resumescreener.com
-Password: admin123
-```
 
 ## 📁 Project Structure
 
