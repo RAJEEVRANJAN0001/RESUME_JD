@@ -2,24 +2,57 @@
 
 A professional full-stack web application for intelligent resume parsing, screening, and shortlisting using Azure Document Intelligence and Google Gemini AI.
 
-## Architecture
+## 🎬 **Application Demo**
 
-- **Frontend**: Next.js 14 + TypeScript + Tailwind CSS (Black & White Professional Theme)
-- **Backend**: FastAPI + Python 3.11
-- **Database**: MongoDB Atlas
-- **AI/ML**: Azure Document Intelligence + Google Gemini API
-- **Auth**: JWT Bearer Tokens
+<div align="center">
 
-## Features
+### 🎥 **See It In Action**
 
+https://github.com/user-attachments/assets/8ed95dc6-b98e-4c25-a6b7-a59c435a8d22
+
+*🎯 Complete workflow demonstration - from resume upload to AI-powered matching results with audio narration*
+
+> 📋 **1. Upload Resumes** → 📝 **2. Add Job Description** → 🧠 **3. AI Analysis** → 📊 **4. Get Results**
+
+</div>
+
+## 📊 Project Status
+
+🚀 **Active Development** - Fully functional with continuous improvements
+
+### ✅ Implemented Features
 - ✓ Resume upload (PDF/DOCX) with Azure Document Intelligence parsing
 - ✓ AI-powered JSON extraction using Gemini with schema validation
 - ✓ Job description matching with semantic scoring
 - ✓ Profile editor for parsed resumes
-- ✓ Advanced search and shortlisting
-- ✓ JWT authentication
+- ✓ Advanced search and shortlisting with filters
+- ✓ JWT authentication & user management
 - ✓ GridFS storage for raw files
-- ✓ Responsive black & white UI
+- ✓ Analytics dashboard with interactive charts
+- ✓ Responsive modern UI with dark/light theme support
+- ✓ Real-time scoring and ranking system
+- ✓ Enhanced parsing with duplicate handling
+
+### 🔄 In Progress
+- ⏳ Advanced analytics with data visualization
+- ⏳ Bulk operations and batch processing
+- ⏳ Export functionality (PDF/Excel reports)
+
+### 🎯 Planned Features
+- 📅 Interview scheduling integration
+- 📅 Email notification system
+- 📅 Multi-language resume support
+- 📅 Advanced AI-powered candidate insights
+
+## Architecture
+
+- **Frontend**: Next.js 14 + TypeScript + Tailwind CSS + shadcn/ui
+- **Backend**: FastAPI + Python 3.11
+- **Database**: MongoDB Atlas
+- **AI/ML**: Azure Document Intelligence + Google Gemini API
+- **Auth**: JWT Bearer Tokens
+- **UI Components**: Radix UI + Tailwind CSS
+- **Charts**: Recharts for analytics visualization
 
 ## Quick Start
 
