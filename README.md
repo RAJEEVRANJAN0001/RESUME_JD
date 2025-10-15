@@ -38,11 +38,6 @@ https://github.com/user-attachments/assets/8ed95dc6-b98e-4c25-a6b7-a59c435a8d22
 - ⏳ Bulk operations and batch processing
 - ⏳ Export functionality (PDF/Excel reports)
 
-### 🎯 Planned Features
-- 📅 Interview scheduling integration
-- 📅 Email notification system
-- 📅 Multi-language resume support
-- 📅 Advanced AI-powered candidate insights
 
 ## Architecture
 
@@ -65,20 +60,6 @@ https://github.com/user-attachments/assets/8ed95dc6-b98e-4c25-a6b7-a59c435a8d22
 ### 1. Environment Setup
 
 Create `.env` files in both backend and frontend directories:
-
-**backend/.env**
-```env
-GEMINI_API_KEY=AIzaSyDScK_dcj0L1Vi2GKRGTOHYfY8YBkuSHaY
-GEMINI_MODEL=gemini-pro
-AZURE_DOC_INTELLIGENCE_ENDPOINT=https://arc1.cognitiveservices.azure.com/
-AZURE_DOC_INTELLIGENCE_KEY=5CiYiFLezoXUdBJrQ9f5KxrQS4QBUG5Lm7tjdceRZsg1A5o1kEpeJQQJ99BJACqBBLyXJ3w3AAALACOGRIzy
-MONGODB_URI=mongodb+srv://ARC-RESUME:69O52bQXpzSHroMS@clusterarc.kxpp16z.mongodb.net/
-JWT_SECRET=your-secure-jwt-secret-change-in-production
-JWT_ALGORITHM=HS256
-JWT_EXPIRATION_MINUTES=1440
-DATABASE_NAME=resume_screener
-ENVIRONMENT=development
-```
 
 **frontend/.env.local**
 ```env
